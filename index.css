@@ -128,7 +128,7 @@
     height: 30%;
 /* padding-left: 2px; */
 margin-left: 198px;
-z-index: 1;
+/* z-index: 1; */
 /* overflow-y: hidden; */
 
 margin-top: -171px;
@@ -181,7 +181,7 @@ position: relative;
             display: flex;
             justify-content: space-between;
             padding-left: 44px; 
-             z-index: 2;
+             /* z-index: 2; */
              margin-top: -138px; 
              position: relative;
              /* overflow-y: hidden; */
@@ -229,24 +229,24 @@ border: 1rem solid; */
 .main-screen__main-img {
     max-width: 100%;
 }.malik {
-    background: url("../img/main-screen/background.png") no-repeat;
+    background: url("./Banner-complete.png") no-repeat;
     background-size: cover;
     background-position: center center;
-    height: 100vh;
+    height: 100%;
 }
-.ae {
+/* .ae {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: space-between;
     padding: 123px 0 50px 0;
     height: 100vh;
-}
+} */
 .main-screen__title-img {
     max-width: 1023px;
     margin-bottom: 10px;
     position: relative;
-    z-index: 2;
+    /* z-index: 2; */
 }
 .main-screen__main-img {
     position: absolute;
@@ -254,25 +254,27 @@ border: 1rem solid; */
     left: 50%;
     transform: translate(-50%, 0);
     max-width: 513px;
-    z-index: 1;
+    /* z-index: 1; */
 }
-.na {
+/* .na {
     margin: 0 auto;
     max-width: 1140px;
     padding: 0 10px;
-}
+} */
 @media (max-width: 767px) {
     .na {
         padding: 0 15px;
     }}
 .main-screen__items {
     position: relative;
-    z-index: 2;
+    /* z-index: 2; */
     display: -ms-grid;
     display: grid;
     -ms-grid-columns: 1fr 22px 1fr 22px 1fr 22px 1fr;
     grid-template-columns: repeat(6, 1fr);
     column-gap: 22px;
+    margin-top: 483px;
+
 }
 @media (max-width: 767px){
 
@@ -280,13 +282,20 @@ border: 1rem solid; */
     -ms-grid-columns: (1fr) [2];
     grid-template-columns: repeat(3, 1fr);
     row-gap: 22px;
+    margin-top: 114px;
 }}
 
 
 #t1h{
+
+
+
     font-size: 30px;
     color: white;
     font-weight: 600;
+    margin-top: 28px;
+
+
 
 }
 .sti1{
@@ -358,6 +367,11 @@ width: 70%;
 #adi{
     width: 94%;
     height: 79%;
+    /* margin-bottom: -3px; */
+    /* margin-top: -20px; */
+    padding-top: -5px;
+    padding-bottom: 14px;
+
 }
 .dec{
     border-radius: 1px solid red;
@@ -722,9 +736,12 @@ margin-left: 50px;
 }
 #t1h {
     font-size: 20px;
-    width: 50%;
+    width: 49%;
     text-align: center;
     margin-right: 113px;
+}
+.malik{
+    height: 70vh;
 }
 #imf {
     padding-top: 12px;
@@ -732,7 +749,7 @@ margin-left: 50px;
     margin-left: 16px;
 }
 #adi {
-    width: 43%;
+    width: 32%;
     height: 93%;
     margin-top: -18px;
     margin-bottom: 7px;
@@ -834,3 +851,6 @@ margin-left: 50px;
     .main-screen__title-img{
         max-width: 550px;    }
 } */
+
+
+
