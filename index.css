@@ -579,6 +579,17 @@ width: 70%;
     margin-top: 53px;
     padding-left: 12px;
 }
+.bad2{
+    
+    width: 48px;
+    height: 48px;
+
+}
+.bad3{
+    width: 50px;
+    height: 50px;
+
+}
 .nsb{
     background: url(./background.png), #141825;
     background-size: cover, cover;
