@@ -213,8 +213,8 @@
     background: url("./Banner-complete.png") no-repeat;
     background-size: cover;
     background-position: center center;
-    height: 598px;
-}
+    height: 714px;
+    width: 106%;}
 
 .main-screen__title-img {
     max-width: 1023px;
@@ -777,8 +777,9 @@
 }
 
 .malik {
-    height: 561px;
-    width: 119%;
+    background-image: url(./Mobiel-BG.png);
+    height: 575px;
+    width: 100%;
 }
 
 .icon {
