@@ -573,7 +573,8 @@
 }
 
 .nsb {
-    background: url(./background.png), #141825;
+    background: url(./pure-white-background-85a2a7fd.jpg);
+    /* background: url(./background.png), #141825; */
     background-size: cover, cover;
     border-radius: 12px;
     display: flex;
@@ -732,7 +733,7 @@
         margin-right: 299px;
         z-index: 2;
         position: absolute;
-        margin-left: 5px;
+        margin-left: 1px;
     }
 
     #im2 {
@@ -763,8 +764,9 @@
         padding-bottom: 4px;
     }
 .icon1{
-    padding-top: 17px;
     padding-left: 10px;
+    margin-top: 0px;
+    padding-top: 23px;
 }
 
 #t1h {
@@ -781,7 +783,7 @@
 
 .icon {
     width: 106px;
-    height: 131px;
+    height: 132px;
     border-radius: 50%;
     margin-right: 4px;
     display: flex;
@@ -809,21 +811,22 @@
 .dflk2 {
     display: flex;
     flex-direction: row;
-    gap: 56px;
+    gap: 28px;
     padding-left: 0px;
     margin-left: 70px;
+    margin-top: -69px;
 }
 .icon5 {
-    margin-top: -6px;
-    margin-right: 3px;
-    margin-left: -3px;
+    margin-top: 6px;
+    margin-right: 5px;
+    margin-left: -14px;
 }
 
 #adi {
     width: 37%;
     height: 97%;
     margin-top: -18px;
-    margin-bottom: 223px;
+    margin-bottom: 186px;
     margin-left: 0px;
 }
 
