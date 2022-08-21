@@ -269,8 +269,8 @@
 }
 
 .icon {
-    width: 244px;
-    height: 217px;
+    width: 238px;
+    height: 219px;
     border-radius: 50%;
     margin-right: 4px;
     display: flex;
@@ -281,7 +281,7 @@
 
 #imf {
 
- margin-top: 46px;
+ margin-top: 41px;
     margin-right: 308px;
     z-index: 2;
     position: absolute;
@@ -292,7 +292,7 @@
 }
 
 .controlClass {
-    height: 217px;
+    height: 215px;
 }
 
 ._1di {
@@ -321,10 +321,10 @@
 #adi{
 
 
-    width: 71%;
+    width: 73%;
     height: 97%;
     margin-top: -84px;
-    margin-bottom: 83px;
+    margin-bottom: 98px;
     margin-left: 0px;
 }
 
