@@ -208,7 +208,7 @@
     margin-left: 603px;
     margin-top: 596px;
     background-color: white;
-    /* display: none; */
+    display: none;
     transition: ease 0.8s;
     width: 137px;
     /* height: 100px; */
