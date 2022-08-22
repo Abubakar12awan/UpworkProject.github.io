@@ -26,7 +26,7 @@
     
     
 // }, 2000);
-document.getElementById("i1").style=" margin-left: 589px;margin-top: 519px;background-color: white;transition: ease 0.9s;width: 187px;border-radius: 7px;    transform: rotate(0deg);";
+document.getElementById("i1").style=" margin-left: 589px;margin-top: 519px;background-color: #199747;transition: ease 0.9s;width: 187px;border-radius: 7px;    transform: rotate(0deg);";
 // 
 // document.ge
 
