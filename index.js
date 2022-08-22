@@ -30,8 +30,8 @@ document.getElementById("i1").style=" margin-left: 589px;margin-top: 519px;backg
 // 
 // document.ge
 
-document.getElementById("ii1").style=" width: 100px;border: 2px solid red;display: block;margin-top: 502px;margin-left: 166px;;transition: ease 0.9s;border-radius: 2px;    transform: rotate(0deg);";
-
+// document.getElementById("ii1").style=" width: 100px;border: 2px solid red;display: block;margin-top: 502px;margin-left: 166px;;transition: ease 0.9s;border-radius: 2px;    transform: rotate(0deg);";
+// document.getElementById("ii1").appendChild
 
 // var width = document.getElementById(body).width();
 

@@ -8,6 +8,10 @@
 }
 
 
+
+
+
+
 .icon2{
     margin-top: 65px;
 }
@@ -493,10 +497,7 @@
 .c2{
     /* display: none; */
 }
-#ii1{
-    border: 2px solid red;
-    display: none;
-}
+
 
 .cc {
 
@@ -778,6 +779,7 @@
         /* border: 2px solid red; */
         display: block;
         transform: rotate(40deg);
+        visibility: hidden;
 
     }
 
@@ -970,6 +972,14 @@
 }
 
 }
+/* @media screen (min-width: 500px)  {
+    
+    
+    #ii1{
+        /* border: 2px solid red; */
+        /* display: none;
+    }
+    }  */
 
 @media only screen and (max-width: 540px) {
     .saj {
