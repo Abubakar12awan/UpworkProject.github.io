@@ -342,7 +342,9 @@
         border-radius: 7px;
         transform: rotate(0deg);
 }
-
+.nnn{
+    display: none;
+}
 
 #t1h {
 
@@ -834,6 +836,16 @@
 
         /* justify-content: space-between; */
     }
+
+
+    .nnn{
+        display: block;
+    }
+    .mmm{
+        display: none;
+    }
+    
+
     .baadwala_text{
         width: 99%;
         color: #18c3de;
